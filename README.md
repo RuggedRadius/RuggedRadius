@@ -14,7 +14,8 @@ I'm Ben and I love programming. I put most of my current work on here so feel fr
 | :white_check_mark: C#     | :white_check_mark: HTML5      | :white_check_mark: MySQL | :white_check_mark: NodeJS |
 | :white_check_mark: Java   | :white_check_mark: Javascript |                          | :white_check_mark: Unity  |
 | :white_check_mark: Python | :white_check_mark: PHP        |                          |                           |
-| :white_check_mark: Pascal | :white_check_mark: CSS        |                          |                           |
+| :white_check_mark: C      | :white_check_mark: CSS        |                          |                           |
+| :white_check_mark: Pascal |                               |                          |                           |
 
 ### Stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RuggedRadius)](https://github.com/anuraghazra/github-readme-stats)
