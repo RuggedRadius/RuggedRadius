@@ -2,13 +2,13 @@
 Hi, :wave:    
 I'm Ben and I love programming. I put most of my current work on here so feel free to ask about anything.
 
-### Quick Facts:
+## Quick Facts:
 :heart: Programming  
 :dog: Dogfather of 2  
 :musical_score: Passionate about music  
 :video_game: Love videogames  
 
-### Skills
+## Skills
 | Languages                 | Web                           | Database                 | Frameworks/Environments   |
 | :--                       | :--                           | :--                      | :--                       |
 | :white_check_mark: C#     | :white_check_mark: HTML5      | :white_check_mark: MySQL | :white_check_mark: NodeJS |
@@ -17,7 +17,7 @@ I'm Ben and I love programming. I put most of my current work on here so feel fr
 | :white_check_mark: C      | :white_check_mark: CSS        |                          |                           |
 | :white_check_mark: Pascal |                               |                          |                           |
 
-### Stats
+## Stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RuggedRadius)](https://github.com/anuraghazra/github-readme-stats)
 
 
