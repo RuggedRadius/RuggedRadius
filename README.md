@@ -1,6 +1,6 @@
 ## Introduction
 Hi, :wave:    
-I'm Ben and I love programming. I put most of my current work on here so feel free to ask about anything.
+I put most of my current work on here so feel free to ask about anything.
 
 ## Quick Facts:
 :heart: Programming  
