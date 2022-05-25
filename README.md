@@ -3,7 +3,9 @@ Hi, :wave:
 I put most of my current work on here so feel free to ask about anything.
 
 ## Quick Facts:
-:heart: Programming  
+:baby: Father
+:ring: Husband
+:heart: Programming / Game Dev  
 :dog: Dogfather of 2  
 :musical_score: Passionate about music  
 :video_game: Love videogames  
