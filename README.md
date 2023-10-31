@@ -3,7 +3,7 @@ Hi, :wave:
 I put most of my current work on here so feel free to ask about anything.
 
 ## Quick Facts:
-:baby: Father  
+:baby: Father of 2  
 :ring: Husband  
 :heart: Programming / Game Dev  
 :dog: Dogfather of 2  
